@@ -1,8 +1,9 @@
 .avatar {
+  display: none;
   border-radius: 50%;
   width: 100px;
   height: 100px;
-  objet-fit: cover;
+  object-fit: cover;
   margin-bottom: var(--typography-spacing-vertical);
 }
 
@@ -28,7 +29,7 @@
 }
 
 .icon {
-  width: 24px;
+  width: 36px;
 }
 
 .item a {

@@ -8,7 +8,6 @@ image = "transparent.png"
 [[sections]]
 direction = "column"
 item_style = "filled"
-icon_size = "30px"
 [[sections.items]]
 icon = "https://cdn.simpleicons.org/obsidian"
 title = "Notes"

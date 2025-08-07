@@ -101,7 +101,7 @@ def create_section(section: Section):
                 )
                 if item.icon
                 else None,
-                h("hgroup")(h("h4")(item.title), h("h5")(item.description)),
+                h("hgroup")(h("h1")(item.title), h("h5")(item.description)),
             )
             if item.url
             else raw(f"""
