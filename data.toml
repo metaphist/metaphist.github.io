@@ -9,6 +9,10 @@ image = "transparent.png"
 direction = "column"
 item_style = "filled"
 [[sections.items]]
-icon = "https://cdn.simpleicons.org/obsidian"
 title = "Notes"
 url = "http://notes.metaphist.com"
+icon = "https://cdn.simpleicons.org/obsidian"
+[[sections.items]]
+title = "Vids"
+url = "https://www.youtube.com/user/AngrySonMetaphist"
+icon = "https://cdn.simpleicons.org/youtube"
