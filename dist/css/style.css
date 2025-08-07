@@ -37,3 +37,8 @@
   gap: var(--spacing);
   justify-content: center;
 }
+
+.item a:hover {
+  background-color: rgb(0,0,0,0.1);
+  border-color: rgb(0,0,0,0.1);
+}

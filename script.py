@@ -19,7 +19,7 @@ class Section:
     title: str
     description: Optional[str] = None
     icon: Optional[str] = None
-    icon_size: str = "24px"
+    icon_size: str = "36px"
     direction: str = "column"
     item_style: str = "outline"
     items: List[Item] = field(default_factory=list)
