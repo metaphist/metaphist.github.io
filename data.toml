@@ -9,24 +9,10 @@ gtag_id = "G-XLJ81DCZFV"
 base_url = "https://metaphist.github.io"
 
 [[sections]]
-title = "Links"
-description = "Look for me on these websites"
 direction = "column"
 item_style = "filled"
 icon_size = "30px"
 [[sections.items]]
-icon = "https://cdn.simpleicons.org/instagram/ffffff"
-title = "Instagram"
-url = "https://www.instagram.com/jakegyllenhaal"
-[[sections.items]]
-icon = "https://cdn.simpleicons.org/imdb/ffffff"
-title = "IMDb"
-url = "https://www.imdb.com/name/nm0350453/"
-[[sections.items]]
-icon = "https://cdn.simpleicons.org/wikipedia/ffffff"
-title = "Wikipedia"
-url = "https://en.wikipedia.org/wiki/Jake_Gyllenhaal"
-[[sections.items]]
-title = "Rotten Tomatoes"
-icon = "https://cdn.simpleicons.org/rottentomatoes/ffffff"
-url = "https://www.rottentomatoes.com/celebrity/jake_gyllenhaal"
+icon = "https://cdn.simpleicons.org/obsidian"
+title = "Notes"
+url = "http://notes.metaphist.com"
