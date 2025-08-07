@@ -11,7 +11,7 @@ base_url = "https://metaphist.github.io"
 [[sections]]
 title = "Links"
 description = "Look for me on these websites"
-direction = "row"
+direction = "column"
 item_style = "filled"
 icon_size = "30px"
 [[sections.items]]
