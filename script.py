@@ -58,7 +58,7 @@ def load_data(file_path):
                 title=section.get("title"),
                 description=section.get("description"),
                 icon=section.get("icon"),
-                icon_size=section.get("icon_size", "24px"),
+                icon_size=section.get("icon_size"),
                 direction=section.get("direction", "column"),
                 item_style=section.get("item_style", "outline"),
                 items=[
