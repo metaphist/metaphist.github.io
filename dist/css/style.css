@@ -36,9 +36,10 @@
   display: flex;
   gap: var(--spacing);
   justify-content: center;
+  border-width: 0;
 }
 
 .item a:hover {
   background-color: rgb(0,0,0,0.1);
-  border-color: rgb(0,0,0,0.1);
+  border-width: 0;
 }
