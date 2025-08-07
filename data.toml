@@ -1,8 +1,9 @@
 keywords = "metaphist"
 theme = "dark"
-primary_color = "#d81b60"
+primary_color = "rgba(255, 255, 255, 0.1)"
 text_align = "center"
 base_url = "https://metaphist.github.io"
+image = "transparent.png"
 
 [[sections]]
 direction = "column"
