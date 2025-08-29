@@ -1,0 +1,46 @@
+section#isso-thread {
+  margin-top: 48px;
+  padding-top: 10px;
+  border-top: 1px solid var(--background-modifier-border);
+}
+#isso-thread h4.isso-thread-heading {
+  color: var(--h4-color);
+  float: left;
+}
+#isso-thread .isso-textarea-wrapper {
+  clear: both;
+}
+#isso-thread .isso-input-wrapper {
+  max-width: 32%;
+  margin-right: 2%;
+  margin-top: 0;
+}
+@media screen and (max-width: 600px) {
+  #isso-thread .isso-input-wrapper {
+    max-width: 100%;
+    margin: 0 0 1em;
+  }
+  #isso-thread .isso-textarea {
+    margin-bottom: .6em;
+  }
+}
+#isso-thread .isso-input-wrapper:last-of-type {
+  margin-right: 0;
+}
+#isso-thread .isso-input-wrapper input,
+#isso-thread .isso-textarea {
+  background-color: var(--sidebar-left-background);
+  border-color: var(--background-modifier-border);
+  border-radius: var(--input-radius);
+  color: var(--text-normal);
+}
+#isso-thread .isso-post-action > input {
+  border: 1px solid var(--background-modifier-border);
+  padding: .5em;
+  border-radius: .5em;
+  background-color: var(--bg2);
+  color: var(--tx2);
+}
+#isso-thread .isso-author {
+    color: var(--tx2);
+}
