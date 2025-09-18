@@ -1533,10 +1533,11 @@ ul.dataview-ul {
 }
 
 .dataview.inline-field-value,
+.dataview.inline-field-standalone-value,
 .dataview.inline-field-key {
-  font-family: var(--font-text);
-  padding: 0;
-  background-color: transparent;
+  font-family: var(--font-text) !important;
+  padding: 0 !important;
+  background-color: transparent !important;
 }
 
 .dataview.inline-field-value::before {
