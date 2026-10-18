@@ -1,1 +1,1 @@
-Forked from [Jake](https://thevahidal.github.io/jake)
+Forked from [Jake](https://github.com/thevahidal/jake/)
