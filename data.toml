@@ -4,6 +4,7 @@ primary_color = "rgba(255, 255, 255, 0.1)"
 text_align = "center"
 base_url = "https://metaphist.github.io"
 image = "transparent.png"
+gtag_id = "G-KF4LRREJ77"
 
 [[sections]]
 direction = "column"
